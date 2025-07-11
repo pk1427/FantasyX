@@ -1,0 +1,18 @@
+console.log(balance.toString())  // in wei
+const balance = await viem.getBalance({ address })
+co
+const [address] = await deployer.getAddresses()
+// This returns an a
+await deployer.getAddresses()
+const deployer = await viem.getWalletClient()
+ethers.formatEther(await deployer.getBalance())
+(await deployer.getBalance()).toString()
+deployer.address
+const [deployer] = await ethers.getSigners()
+.exit
+ethers.formatEther(await signer.getBalance())
+(await signer.getBalance()).toString()
+signer.address
+const [signer] = await ethers.getSigners()
+signer.await signer.getBalance()
+const [signer] = await ethers.getSigners()
