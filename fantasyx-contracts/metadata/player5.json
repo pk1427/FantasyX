@@ -1,0 +1,10 @@
+{
+  "name": "Hardik Pandya",
+  "description": "All-rounder with power-hitting and effective medium pace.",
+  "image": "https://ipfs.io/ipfs/QmHardikImage",
+  "attributes": [
+    { "trait_type": "Batting", "value": 84 },
+    { "trait_type": "Bowling", "value": 78 },
+    { "trait_type": "Stamina", "value": 80 }
+  ]
+}

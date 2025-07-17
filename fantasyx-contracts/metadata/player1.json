@@ -1,0 +1,10 @@
+{
+  "name": "Virat Kohli",
+  "description": "Right-hand batsman known for consistency and aggression.",
+  "image": "https://ipfs.io/ipfs/bafkreidboana5yxdet5edrwl7s66khenfmxceeutlahkd54q2bonl4vyqe",
+  "attributes": [
+    { "trait_type": "Batting", "value": 94 },
+    { "trait_type": "Fitness", "value": 89 },
+    { "trait_type": "Leadership", "value": 85 }
+  ]
+}

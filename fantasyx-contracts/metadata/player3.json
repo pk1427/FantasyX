@@ -1,0 +1,10 @@
+{
+  "name": "Jasprit Bumrah",
+  "description": "India's top fast bowler known for yorkers and death overs.",
+  "image": "https://ipfs.io/ipfs/QmBumrahImage",
+  "attributes": [
+    { "trait_type": "Bowling", "value": 95 },
+    { "trait_type": "Pace", "value": 93 },
+    { "trait_type": "Accuracy", "value": 91 }
+  ]
+}

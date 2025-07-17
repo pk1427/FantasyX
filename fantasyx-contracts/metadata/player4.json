@@ -1,0 +1,10 @@
+{
+  "name": "Rishabh Pant",
+  "description": "Wicketkeeper-batsman with an aggressive left-hand style.",
+  "image": "https://ipfs.io/ipfs/QmPantImage",
+  "attributes": [
+    { "trait_type": "Batting", "value": 88 },
+    { "trait_type": "Agility", "value": 85 },
+    { "trait_type": "Wicketkeeping", "value": 86 }
+  ]
+}

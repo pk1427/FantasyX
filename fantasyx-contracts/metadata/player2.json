@@ -1,0 +1,10 @@
+{
+  "name": "Rohit Sharma",
+  "description": "Explosive opener with elegant shot-making skills.",
+  "image": "https://ipfs.io/ipfs/bafkreihokkqlr5zlhve2kwcxosmbthlcr7s2ouatset5ixjyhbbdgpqege",
+  "attributes": [
+    { "trait_type": "Batting", "value": 90 },
+    { "trait_type": "Fitness", "value": 82 },
+    { "trait_type": "Experience", "value": 88 }
+  ]
+}
